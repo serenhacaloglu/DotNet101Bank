@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet101Bank", "Dotnet101Bank\Dotnet101Bank.csproj", "{F217E00B-FFB5-4BE7-94E5-1F650A7FDBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet101Bank.Test", "Dotnet101Bank.Test\Dotnet101Bank.Test.csproj", "{27F5CCB5-D987-4678-B38A-0476FB24E33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F217E00B-FFB5-4BE7-94E5-1F650A7FDBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F217E00B-FFB5-4BE7-94E5-1F650A7FDBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F217E00B-FFB5-4BE7-94E5-1F650A7FDBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F217E00B-FFB5-4BE7-94E5-1F650A7FDBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F5CCB5-D987-4678-B38A-0476FB24E33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F5CCB5-D987-4678-B38A-0476FB24E33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F5CCB5-D987-4678-B38A-0476FB24E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F5CCB5-D987-4678-B38A-0476FB24E33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
